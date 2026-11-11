@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 
-public class IteratorTest {
+ public class IteratorTest {
     static void main(String[] args) {
         // 이터레이터(Iterator) : 반복을 수행하는 기능
         // 레일처럼 돌리는 장비 : 회전할 때 삭제가능
